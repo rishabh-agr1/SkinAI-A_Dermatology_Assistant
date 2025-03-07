@@ -22,12 +22,15 @@ The machine learning model classifies user-uploaded skin images into seven disea
 
 ## Few Screenshots
 
+### Home Page
 ![Image](https://github.com/user-attachments/assets/9a5f31f1-7700-4f27-b4bf-2945c6e2dc19)
 
+### Diagnosis Page
 ![Image](https://github.com/user-attachments/assets/9e1230ef-5e31-4595-bef4-18afe7c0e7dd)
 
 ![Image](https://github.com/user-attachments/assets/24eef6bd-4bad-43b7-b250-065dfeb15c28)
 
+### Other Sections of Website
 ![Image](https://github.com/user-attachments/assets/5dc3d0e7-ffee-4d77-9858-ac8df448db6f)
 
 ![Image](https://github.com/user-attachments/assets/56cf77f4-b98b-49b9-9071-de2bc5cd864c)
