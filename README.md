@@ -4,14 +4,6 @@ Developed on December 2024. SkinAI is a dermatology assistant project with a web
 
 The machine learning model classifies user-uploaded skin images into seven disease categories with probability scores. It utilizes the HAM10000 labeled dataset from Harvard and applies preprocessing techniques to improve accuracy. Developed with TensorFlow, Keras, NumPy, Pandas, Sklearn, and Streamlit, the model achieved 86-87% accuracy during testing. SkinAI aims to provide an accessible, AI-powered tool for early skin disease detection and awareness.
 
-## Features
-
-1. **Skin Disease Diagnosis** – Users can upload skin images for AI-based classification into **seven disease types** with probability scores.
-2. **High-Accuracy ML Model** – Uses a **CNN-based** deep learning model trained on the HAM10000 dataset, achieving **86-87% accuracy**.
-3. **Image Preprocessing** – Enhances model performance by applying preprocessing techniques for better classification accuracy.
-4. **Educational Resources** – Users can learn about skin conditions, symptoms, and precautions through the website.
-5. **Doctor Consultation** – Provides an option to contact dermatologists for further medical advice if needed.
-
 ## Technology Used
 
 **Frontend:** HTML, Bootstrap, Javascript
@@ -19,6 +11,14 @@ The machine learning model classifies user-uploaded skin images into seven disea
 **Dataset:** HAM10000 (By Harvard University)
 
 **Machine Learning:** Python, Pandas, Numpy, Tensorflow, Keras, Streamlit
+
+## Features
+
+1. **Skin Disease Diagnosis** – Users can upload skin images for AI-based classification into **seven disease types** with probability scores.
+2. **High-Accuracy ML Model** – Uses a **CNN-based** deep learning model trained on the HAM10000 dataset, achieving **86-87% accuracy**.
+3. **Educational Resources** – Learn about skin conditions, symptoms, and precautions on the website.
+4. **Doctor Consultation** – Option to contact dermatologists for further medical advice.
+   
 
 ## Few Screenshots
 
