@@ -6,8 +6,8 @@ The machine learning model classifies user-uploaded skin images into seven disea
 
 ## Features
 
-1. **Skin Disease Diagnosis** – Users can upload skin images for AI-based classification into seven disease types with probability scores.
-2. **High-Accuracy ML Model** – Uses a CNN-based deep learning model trained on the HAM10000 dataset, achieving 86-87% accuracy.
+1. **Skin Disease Diagnosis** – Users can upload skin images for AI-based classification into **seven disease types** with probability scores.
+2. **High-Accuracy ML Model** – Uses a **CNN-based** deep learning model trained on the HAM10000 dataset, achieving **86-87% accuracy**.
 3. **Image Preprocessing** – Enhances model performance by applying preprocessing techniques for better classification accuracy.
 4. **Educational Resources** – Users can learn about skin conditions, symptoms, and precautions through the website.
 5. **Doctor Consultation** – Provides an option to contact dermatologists for further medical advice if needed.
